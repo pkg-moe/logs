@@ -1,4 +1,4 @@
-module logs
+module pkg.moe/pkg/logs
 
 go 1.20
 
